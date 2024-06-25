@@ -1,1 +1,3 @@
-![Mohin](image/Mohin-u.jpg)
+![Mohin][def]
+
+[def]: image/Mohin-u.jpg
